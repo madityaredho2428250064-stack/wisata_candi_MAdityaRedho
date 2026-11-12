@@ -1,0 +1,35 @@
+name: wisata_candi
+description: "A new Flutter project."
+publish_to: 'none' 
+
+sions while build-number is used as the build suffix.
+version: 1.0.0+1
+
+environment:
+  sdk: ^3.13.4
+
+
+dependencies:
+  flutter:
+    sdk: flutter
+
+
+  cupertino_icons: ^1.0.8
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+
+  bout deactivating specific lint
+  
+  flutter_lints: ^6.0.0
+
+
+flutter:
+
+  
+  uses-material-design: true
+
+  
+ 
+  
